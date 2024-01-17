@@ -1,5 +1,5 @@
 # Installation
-The recommended expo-cli version for this app is 6+.
+The recommended expo-cli version for this app is 6.3.10+.
 ```
 npm install
 ```
